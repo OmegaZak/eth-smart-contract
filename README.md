@@ -1,4 +1,5 @@
-# eth-smart-contract
+# ETH-Smart-Contract
+
 Blockchain App Using Ethereum Smart Contracts and Solidity
 
 It contains 3 directories:
